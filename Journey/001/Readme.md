@@ -1,52 +1,48 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+![](../../solutions-arch-banner.jpeg)
+# AWS Solutions Architect Course Review - Day 1
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Doing a course review of some important content.
 
-## Prerequisite
+#### Duration
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+About 3 hours.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- The topics reviewed are part of original course and were extracted from course material
 
-## Cloud Research
+### Microservices, ECS and EKS
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Microservices are Autonomous, Specialyzed, responsible for one topic
+- AWS Container Services: AWS solution to run and manage containers
+- AWS Container Competency Program: a Partner Program to certify Partner's solutions running on AWS platform
+- Container: repeatable, self-contained environment and fast to start/stop
+- AWS ECS: AWS automatically distributes container instances into more than node of ECS cluster, to give high availability to application.
+- Fargate: fully maaged container service, provisioning and managing the EKS or ECS clusters, without any infrasctructure administration needs.
 
-## Try yourself
+### AWS Lambda
+- Fully managed compute service
+- Stateless code
+- Node.js, Java, Python, C#, Go, Ruby and PowerShell
+- Run the code in a schedule or in response to an event, like file upload to a S3 bucket, change in a DynamoDB, API request, etc
+- By default Lambda does not have permissions to comunicate woth any other services, and is up to you creates an IAM Role to allow it as you need. By default Lambda requires CloudFront permissions to upload logs to.
+- AWS Lambda handles: Servers, capacity needs, deployment, scaling and fault tolerance, OS and language updates, metrics and logging
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### AWS API Gateway
+- Act as "front doors" for applications
+- Can handle up to hundreds of thousands of concurrent API calls
+- Can work with workloads running on Lambda or any web application platform
 
-### Step 1 — Summary of Step
+### AWS Step Functions 
+- Is a State Machine that can be used to coordinate microservices using visual workflow
+- Automatically triggers and tracks each step, providing simpe error catching and logging
+- State Machine can be represented using Amazon State Language, a JSON format language that defines the behavior of an state machine
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+### Where to learn more: 
+[AWS FAQs](https://aws.amazon.com/faqs/)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter]([link](https://twitter.com/cicerosilvajr/status/1284860215502897153))
