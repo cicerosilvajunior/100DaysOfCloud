@@ -45,4 +45,4 @@ About 3 hours.
 
 ## Social Proof
 
-[Twitter]([link](https://twitter.com/cicerosilvajr/status/1284860215502897153))
+[Twitter](https://twitter.com/cicerosilvajr/status/1284860215502897153)
