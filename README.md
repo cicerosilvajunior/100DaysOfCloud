@@ -11,7 +11,7 @@
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
 
-##Cicero Silva's Cloud Journey
+## Cicero Silva's Cloud Journey
 
 I'm a solutions architect with leading experience and a fourteen-year track record in the IT industry mainly participating in projects from companies involving on premises and cloud architectures.
 
