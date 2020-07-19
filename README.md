@@ -15,7 +15,7 @@
 
 I'm a solutions architect with leading experience and a fourteen-year track record in the IT industry mainly participating in projects from companies involving on premises and cloud architectures.
 
-I believe the best way to learn about something is to get your hands dirty 👨🏻‍💻, so I started this challenge to improve my cloud skills and share knowledge with other people.
+I believe the best way to learn about something is to get your hands dirty 👨🏻‍💻 , so I started this challenge to improve my cloud skills and share knowledge with other people.
 
  My goal is get AWS Certified Solutions Architect – Associate until the end of the challenge.
 
