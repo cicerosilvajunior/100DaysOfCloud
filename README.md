@@ -10,20 +10,17 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+##👨🏻‍💻 Cicero Silva's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm a solutions architect with leading experience and a fourteen-year track record in the IT industry mainly participating in projects from companies involving on premises and cloud architectures.
 
-[✍️ Tell us why you started this challenge]
+I believe the best way to learn about something is to get your hands dirty, so I started this challenge to improve my cloud skills and share knowledge with other people.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+ My goal is get AWS Certified Solutions Architect – Associate until the end of the challenge.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Follow me on Twitter](https://twitter.com/cicerosilvajr)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/cicero-silva-jr)
 
 ## Stepping out the door
 
